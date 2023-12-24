@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Radio Bendición Samugari",
+    "role": "Desarrollador Web Freelance",
+    "date": "Nov 2023 – Dic 2023",
+    "description": "Diseñé y desarrollé un sitio web para una estación de radio, mejorando la presencia en línea y la accesibilidad para la audiencia.",
+    "actions": [
+      "Desarrollé la interfaz de usuario utilizando React JS y Tailwind CSS, creando una experiencia de usuario atractiva e intuitiva.",
+      "Integré la señal radial en un servicio de streaming, facilitando el acceso a la transmisión en múltiples plataformas.",
+      "Implementé con éxito la funcionalidad de transmisión en línea, permitiendo a la audiencia sintonizar la señal radial a través de la web.",
+      "Proporciono mantenimiento continuo y soporte técnico para garantizar el funcionamiento ininterrumpido del sitio y la transmisión de la señal."
+    ]
+  },
+  {
+    "company": "SYSTEC CORP S.A.C.",
+    "role": "Desarrollador de Sistemas",
+    "date": "Mar 2023 - Jun 2023",
+    "description": "Diseñé y desarrollé un sistema integral de ventas e inventario web para SYSTEC CORP, optimizando los procesos comerciales y mejorando la eficiencia operativa.",
+    "actions": [
+      "Implementé el backend del sistema, asegurando la robustez y seguridad de las funciones relacionadas con la gestión de ventas y el control de inventario.",
+      "Desarrollé la interfaz de usuario utilizando HTML, CSS y JavaScript, creando una experiencia de usuario atractiva e intuitiva.",
+      "Diseñé y gestioné una base de datos para almacenar y gestionar eficientemente la información de ventas y el inventario de productos.",
+      "Realicé pruebas exhaustivas para garantizar la funcionalidad correcta del sistema, identificando y solucionando proactivamente problemas potenciales."
+    ]
+  },
+  {
+    "company": "SENATI",
+    "role": "Desarrollador de Sistemas",
+    "date": "Mar 2023 - Jun 2023",
+    "description": "Desarrollé un sistema innovador para agilizar la gestión de documentos de proyectos de sustentación del alumnado, además de un repositorio institucional para estos proyectos.",
+    "actions": [
+      "Desarrollé el backend de la aplicación, utilizando PHP como lenguaje de programación para garantizar la funcionalidad completa del sistema.",
+      "Implementé un repositorio institucional para almacenar y organizar de manera centralizada la documentación, facilitando el acceso rápido y seguro para todos los usuarios autorizados.",
+      "Realicé pruebas exhaustivas para garantizar la integridad y la funcionalidad adecuada del sistema, identificando y corrigiendo posibles problemas antes de la implementación completa."
+    ]
+  },
+  {
+    "company": "Centro Médico Paz y Bien ",
+    "role": "Desarrollador Web",
+    "date": "Sept 2022 - Nov 2022",
+    "description": "Colaboré con un equipo en el diseño y desarrollo del sitio web del Centro de Salud Paz y Bien de Ayacucho, Perú.",
+    "actions": [
+      "Prototipado con Figma, permitiendo una visualización y revisión efectiva del proyecto antes del desarrollo.",
+      "Diseñé y gestioné la base de datos del sistema, garantizando un almacenamiento eficiente y seguro de la información.",
+      "Desarrollé el backend de la aplicación, utilizando PHP como lenguaje de programación para garantizar la funcionalidad completa del sistema.",
+      "Implementé el frontend de la página web utilizando tecnologías como HTML, CSS y JavaScript, asegurando una experiencia de usuario intuitiva y atractiva."
+    ]
+  }
+]

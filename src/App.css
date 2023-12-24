@@ -1,0 +1,84 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600&family=PT+Sans:wght@400;700&display=swap');
+
+:root {
+  --primary-color: #029388;
+  --default-color: #666666;
+  --font-nunito: 'Nunito', sans-serif;
+  --font-ptsans: 'PT Sans', sans-serif;
+}
+
+* {
+  color: var(--default-color);
+  font-size: 16px;
+  font-family: var(--font-ptsans);
+}
+
+.container-all {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--default-color);
+}
+
+.sheet {
+  width: min(100%, 21cm);
+  height: auto;
+  padding: 4rem;
+  margin: 4rem 0;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+.title {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.title-2 {
+  font-family: var(--font-nunito);
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: var(--primary-color);
+  padding-bottom: 4px;
+  margin-bottom: .5rem;
+  border-bottom: 1px solid var(--primary-color);
+}
+
+.title-3 {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--default-color);
+  margin-bottom: .3rem;
+  max-width: 500px;
+}
+
+.article-exp {
+  margin-bottom: .5rem;
+}
+
+.list {
+  list-style: disc;
+  margin: 0 0 0.5rem 2rem;
+}
+.list > li {
+  margin-bottom: 0.2rem;
+}
+
+.list-cols {
+  columns: 15rem auto;
+}
+
+.header-article {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+}
+
+.primary-color {
+  color: var(--primary-color);
+} */

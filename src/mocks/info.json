@@ -1,0 +1,32 @@
+{
+  "languages": [
+    "Javascript intermedio (3 años)",
+    "Typescript (1 año)",
+    "HTML (3 años)",
+    "CSS intermedio (3 años).",
+    "PHP – Básico"
+  ],
+  "tecnologies": [
+    "React Js",
+    "Next Js",
+    "Tailwind CSS",
+    "Mysql - MariaDB",
+    "Sql Server",
+    "Git – Github",
+    "API REST",
+    "POO ",
+    "Figma – Framer",
+    "Ofimática básica",
+    "Inglés intermedio",
+    "Español nativo"
+  ],
+  "softSkills": [
+    "Comunicación efectiva",
+    "Trabajo en equipo",
+    "Adaptabilidad",
+    "Resolución de problemas",
+    "Pensamiento crítico",
+    "Gestión del tiempo",
+    "Iniciativa"
+  ]
+}
